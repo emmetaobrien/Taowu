@@ -15,17 +15,20 @@
   "types": [
     {
       "information": {
-        "value": "MRI"
+        "value": "MRI",
+		"valueIRI": "http://uri.interlex.org/ilx_0779748"
       }
     },
     {
       "information": {
-        "value": "T1W"
+        "value": "T1W",
+		"valueIRI": "http://uri.interlex.org/ilx_0111444"
       }
     },
     {
       "information": {
-        "value": "fMRI"
+        "value": "fMRI",
+		"valueIRI": "http://uri.interlex.org/ilx_0506130"
       }
     }
   ],
